@@ -1,7 +1,7 @@
 # Abstract Factory ile Rezervasyon Uygulaması
 
 ## Proje Amacı
-Bir seyahat acentesinin rezervasyon modelinin [UML](https://github.com/Alparslan524/ReservationApplication-With-AbstractFactory/blob/main/EkranGoruntuleri/IlkHali.png) diyagramı gösterilmiştir. Bu acentede rezervasyonlar ulaşım ve konaklama olarak beraber yapılmaktadır. Sistem bu haliyle sadece uçak ve otel rezervasyonu yapmaktadır. Fakat acente yönetimi işlerini genişletme kararı vermiştir ve farklı ulaşım ve konaklama opsiyonları sunmak istemektedir. Bu opsiyonlar şu şekilde olacaktır: Otobüs-Otel, Uçak-Otel, Otobüs-Çadır ve Uçak-Çadır. Ek olarak ilerleyen dönemlerde bu opsiyonlarda çeşit artışı olacağı göz önünde bulundurulması istenmektedir. Bu nedenle C# ve SQL kullanarak güvenilir, sade, kullanışlı ve Abstract Factory tasarım desenine uygun seyahat rezervasyon uygulaması yapılmıştır.
+Bir seyahat acentesinin rezervasyon modelinin [UML](https://raw.githubusercontent.com/Alparslan524/ReservationApplication-With-AbstractFactory/main/EkranGoruntuleri//IlkHali.png) diyagramı gösterilmiştir. Bu acentede rezervasyonlar ulaşım ve konaklama olarak beraber yapılmaktadır. Sistem bu haliyle sadece uçak ve otel rezervasyonu yapmaktadır. Fakat acente yönetimi işlerini genişletme kararı vermiştir ve farklı ulaşım ve konaklama opsiyonları sunmak istemektedir. Bu opsiyonlar şu şekilde olacaktır: Otobüs-Otel, Uçak-Otel, Otobüs-Çadır ve Uçak-Çadır. Ek olarak ilerleyen dönemlerde bu opsiyonlarda çeşit artışı olacağı göz önünde bulundurulması istenmektedir. Bu nedenle C# ve SQL kullanarak güvenilir, sade, kullanışlı ve Abstract Factory tasarım desenine uygun seyahat rezervasyon uygulaması yapılmıştır.
 *** 
 
 ## Program Akışı
@@ -14,9 +14,9 @@ Bu 4 seçeneğe yeni fonksiyonlar ekleme esnekliği sağlamak için Abstract Fak
 
 ## Uygulamadan Ekran görüntüleri
 1. [UML Diyagramı](https://raw.githubusercontent.com/Alparslan524/ReservationApplication-With-AbstractFactory/main/EkranGoruntuleri/UML.png)
-2. [Rezervasyon Ekranı](https://github.com/Alparslan524/ReservationApplication-With-AbstractFactory/blob/main/EkranGoruntuleri/Giris.png)
-3. [Json Rapor Örneği](https://github.com/Alparslan524/ReservationApplication-With-AbstractFactory/blob/main/EkranGoruntuleri/JSonRapor.png)
-4. [Xml Rapor Örneği](https://github.com/Alparslan524/ReservationApplication-With-AbstractFactory/blob/main/EkranGoruntuleri/XMLRapor.png)
+2. [Rezervasyon Ekranı](https://raw.githubusercontent.com/Alparslan524/ReservationApplication-With-AbstractFactory/main/EkranGoruntuleri/Giris.png)
+3. [Json Rapor Örneği](https://raw.githubusercontent.com/Alparslan524/ReservationApplication-With-AbstractFactory/main/EkranGoruntuleri/JSonRapor.png)
+4. [Xml Rapor Örneği](https://raw.githubusercontent.com/Alparslan524/ReservationApplication-With-AbstractFactory/main/EkranGoruntuleri/XMLRapor.png)
 ***
 ## Kullanılan Diller
 * C#
