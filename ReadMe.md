@@ -26,6 +26,6 @@ Bu 4 seçeneğe yeni fonksiyonlar ekleme esnekliği sağlamak için Abstract Fak
 
 
 # Alparslan Aydoğan
-- [GitHub](https://github.com/Alparslan524?tab=repositories)
+- [GitHub](https://github.com/Alparslan524)
 - [Linkedin](https://www.linkedin.com/in/alparslan-aydoğan-6038771bb/)
 ***
